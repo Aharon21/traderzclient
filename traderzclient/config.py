@@ -1,0 +1,5 @@
+BASE_URL = "https://prop.traderzacademy.com"
+BROKER_ID=216
+SYSTEM_UUID="684e10f4-79e9-41aa-ab35-7de24e954206"
+TIMEOUT = 30
+MAX_RETRIES = 3
