@@ -9,7 +9,7 @@ Python client library for the TraderZ API, allowing easy access to accounts, mar
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/traderzclient.git
+git clone https://github.com/Aharon21/traderzclient.git
 cd traderzclient
 pip install -r requirements.txt
 ```
